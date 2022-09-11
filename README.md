@@ -1,7 +1,7 @@
 # Coursework in Probability Theory and Mathematical Statistics
 
 Тема: <br>
-«Проверка нормальности минутной лог. доходности с  использованием инструментария Jupyter Notebook и Wolfram Mathematica»
+«Проверка нормальности минутной логарифмической доходности с  использованием инструментария Jupyter Notebook и Wolfram Mathematica»
 <br>
 <br>
 Содержит следующие этапы:
